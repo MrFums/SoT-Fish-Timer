@@ -12,10 +12,10 @@ You need to have Python 3+ installed for this program to work.
 #   Discord: Fums#0888
 #   GitHub: https://github.com/MrFums
 
-#   Controls: 
+##   Controls: 
 
-#   Fish Timer: CTRL + 1 
-#   Trophy Fish Timer: CTRL + 3
-#   Meat Timer: CTRL + 4
-#   Sea Monster Meat Timer: CTRL + 4
-#   Close Program: SHIFT + ESC
+###   Fish Timer: CTRL + 1 
+###   Trophy Fish Timer: CTRL + 3
+###   Meat Timer: CTRL + 4
+###  Sea Monster Meat Timer: CTRL + 4
+###   Close Program: SHIFT + ESC
