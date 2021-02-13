@@ -4,7 +4,7 @@ A bot that after pressing a key, will make a beep after that amount of time to t
 
 You need to have system sounds on for the beeps to work / be audible. 
 
-Run package installer to automatically install the required package (keyboard).
+~~Run package installer to automatically install the required package (keyboard).~~ No longer needed, auto installs with the script.
 
 You need to have Python 3+ installed for this program to work.
 
