@@ -1,8 +1,30 @@
 import winsound
-import keyboard # pip install keyboard
+#import keyboard
 import time
 import os
+import subprocess
 import sys
+import webbrowser
+
+
+
+while True:
+    f = True
+    try:
+        import keyboard
+
+    except ImportError as e:
+        f = False
+
+        
+    if f == True:
+        break
+    else:
+        print ("Cant find keyboard package, installing it now")
+        subprocess.check_call([sys.executable, "-m", "pip", "install", "keyboard"])
+        print ("Installed package")
+        webbrowser.open('https://github.com/MrFums/SoT-Fish-Timer')
+
 
 os.system('mode con: cols=70 lines=25')
 title = "Fums Cooking Timer"
