@@ -54,8 +54,8 @@ print('''
    Controls: 
 
    Fish Timer: CTRL + 1 
-   Trophy Fish Timer: CTRL + 3
-   Meat Timer: CTRL + 4
+   Trophy Fish Timer: CTRL + 2
+   Meat Timer: CTRL + 3
    Sea Monster Meat Timer: CTRL + 4
    Close Program: SHIFT + ESC
 
